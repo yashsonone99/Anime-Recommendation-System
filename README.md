@@ -56,11 +56,3 @@ Using **machine learning and data preprocessing techniques**, this system levera
 
 4. **Recommendation Function:**  
    - Returns top *N* similar anime titles for any given anime name.  
-
----
-
-## 🚀 How to Run  
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/<your-username>/Anime-Recommendation-System.git
-   cd Anime-Recommendation-System
